@@ -1,4 +1,4 @@
-# day16_pokedex_app
+# pok3dex
 
 A new Flutter project.
 
